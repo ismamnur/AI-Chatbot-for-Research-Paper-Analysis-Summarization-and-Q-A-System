@@ -2,7 +2,7 @@
 
 An interactive chatbot that fetches research papers from **ArXiv**, processes them into vector embeddings, and allows users to **ask questions** about the selected papers using an LLM-powered assistant.
 
-![alt text](E:\news insight\image.png)
+![Research Paper Assistant](images\image.png)
 
 
 ## ✨ Features
